@@ -1,5 +1,6 @@
 + Require Python IDLE to run the all python applications:
    Link: https://www.python.org/downloads/
+
 + Hangman game requires "pygame" library.
    Link: https://www.pygame.org
 
